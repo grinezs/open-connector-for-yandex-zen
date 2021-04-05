@@ -1,7 +1,6 @@
 # open-data-api-yandex-zen
 Этим кодом вы сможете забирать статистику по рекламным кампаниям из Яндекс Дзена
 
-API Яндекс Дзена
 + Для начала потребуется зайти в Яндекс Дзен, открыть консоль разработчика и скопировать последнюю Session_id из кук.
 [![](https://i.ibb.co/g3X1jK7/Yandex-Zen-master-zip-Win-RAR.jpg)](https://i.ibb.co/g3X1jK7/Yandex-Zen-master-zip-Win-RAR.jpg)
 
